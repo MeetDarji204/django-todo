@@ -1,0 +1,15 @@
+# Python 
+__pycache__/ 
+*.py[cod] 
+*.sqlite3 
+ECHO is on.
+# Environment files 
+.env 
+.venv/ 
+ECHO is on.
+# Static files 
+/staticfiles/ 
+ECHO is on.
+# IDE 
+.vscode/ 
+.idea/ 
